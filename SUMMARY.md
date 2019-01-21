@@ -14,5 +14,6 @@
 * [The Building Blocks of Computer Science](getting-started/the-building-blocks-of-computer-science.md)
 * [Revisting the Assignment Statement and Comparisons](getting-started/revisting-the-assignment-statement-and-comparisons.md)
 * [Checkpoint 1](getting-started/checkpoint-1.md)
-* [Checkpoint 1 Solutions](getting-started/checkpoint-1-solutions.md)
+* [Booleans and Comparisons](getting-started/booleans-and-comparisons.md)
+* [Comparisons](getting-started/comparisons.md)
 
