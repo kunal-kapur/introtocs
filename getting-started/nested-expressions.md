@@ -15,7 +15,6 @@ So we have 2 functions defined, adder and square. We then have some variable a t
 We will begin by evaluating the most nested expressions from left to right. First we evaluate square\(2\) which is 4 then we evaluate square\(3\) which is 9. This leaves us with the function adder called on 4 and 9 as follows which can be thought of as follows:
 
 ```text
-
 def adder(x,y):
     return x+y
 def square(z):
