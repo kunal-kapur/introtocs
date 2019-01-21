@@ -16,4 +16,6 @@
 * [Checkpoint 1](getting-started/checkpoint-1.md)
 * [Booleans and Comparisons](getting-started/booleans-and-comparisons.md)
 * [Comparisons](getting-started/comparisons.md)
+* [Conditionals](getting-started/conditionals.md)
+* [Nested Expressions](getting-started/nested-expressions.md)
 
