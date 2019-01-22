@@ -19,4 +19,5 @@
 * [Conditionals](getting-started/conditionals.md)
 * [Nested Expressions](getting-started/nested-expressions.md)
 * [Frames and Environment Diagrams](getting-started/frames-and-environment-diagrams.md)
+* [Nested Functions](getting-started/nested-functions.md)
 
