@@ -28,4 +28,5 @@
 * [A Deeper Look at Higher Order Functions](functions-revisited/a-deeper-look-at-higher-order-functions.md)
 * [Lambda Functions](functions-revisited/lambda-functions.md)
 * [Recursion](functions-revisited/recursion.md)
+* [A Quick Side Note on Recursion](functions-revisited/a-quick-side-note-on-recursion.md)
 
