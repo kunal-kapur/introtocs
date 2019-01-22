@@ -25,4 +25,7 @@
 ## Functions Revisited
 
 * [Iteration](functions-revisited/untitled.md)
+* [A Deeper Look at Higher Order Functions](functions-revisited/a-deeper-look-at-higher-order-functions.md)
+* [Lambda Functions](functions-revisited/lambda-functions.md)
+* [Recursion](functions-revisited/recursion.md)
 
