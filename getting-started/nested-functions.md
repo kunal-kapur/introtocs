@@ -37,7 +37,5 @@ We go into the function towelette with wet assigned to 2. We then return wet + 1
 
 We have returned out of the frame for towelette, but we aren’t done yet! Remember, that return value was for a function call that itself was in a return statement! So we return out of the frame for the function moist with a value equal to the return value of towelette\(water\), or 12.
 
-When drawing out the function calls for nested functions remember to keep your environment diagrams a
-
-bit clean, and to label the parents of frames, otherwise things cant get a bit crazy.
+When drawing out the function calls for nested functions remember to keep your environment diagrams a bit clean, and to label the parents of frames, otherwise things cant get a bit crazy.
 
