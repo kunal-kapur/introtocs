@@ -22,3 +22,7 @@
 * [Nested Functions](getting-started/nested-functions.md)
 * [Scope of Variables](getting-started/scope-of-variables.md)
 
+## Functions Revisited
+
+* [Iteration](functions-revisited/untitled.md)
+

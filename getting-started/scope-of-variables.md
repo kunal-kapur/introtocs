@@ -19,3 +19,21 @@ x = ”sticky”
 x = marsh(x)
 ```
 
+Now there sure are a lot of ”x”’s on here so it can be a bit confusing to see which x goes where. So let’s do this step by step.
+
+![](../.gitbook/assets/varscope1.png)
+
+We start off with x equal to the string ”sticky”. We then set x equal to the value of marsh\(x\). However, we have not yet found the value for this yet, so we will first evaluate the function call marsh\(x\) where x is the string ”sticky”.
+
+![](../.gitbook/assets/varscope2.png)
+
+Now we go into function marsh and the parameter y is set to the passed in value, which was ”sticky”, or x in the global frame. Then the x value in this frame is set equal to gooey. After this statement, we have the line that returns mallow\(\). We must now evaluate the function call for mallow\(\).
+
+![](../.gitbook/assets/varscope3.png)
+
+We go into mallow and then we have a new dilemma- we are returning x; however, there is no x in this frame. Well according to our rules, we can view the values in our parent frames, but we cannot modify them. Since we are not redefining x, we can get the value of x from our parent frame, in this case f1, or our call to mash\(x\). The value of x in this frame is the string ”gooey”, so we return ”gooey”.
+
+![](../.gitbook/assets/varscope4.png)
+
+We then return mallow\(\) in f1 which is equal to ”gooey”. After this, we finally have the value of marsh\(x\)- ”gooey”. At this point we redefine x to be equal to ”gooey” in the global frame.
+
