@@ -35,4 +35,5 @@
 
 * [An Introduction to Lists](built-in-data-types/an-introduction-to-lists.md)
 * [Using Lists](built-in-data-types/using-lists.md)
+* [Adding to Lists](built-in-data-types/adding-to-lists.md)
 
