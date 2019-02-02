@@ -29,4 +29,10 @@
 * [Lambda Functions](functions-revisited/lambda-functions.md)
 * [Recursion](functions-revisited/recursion.md)
 * [A Quick Side Note on Recursion](functions-revisited/a-quick-side-note-on-recursion.md)
+* [Tree Recursion](functions-revisited/tree-recursion.md)
+
+## Built In Data Types
+
+* [An Introduction to Lists](built-in-data-types/an-introduction-to-lists.md)
+* [Using Lists](built-in-data-types/using-lists.md)
 
