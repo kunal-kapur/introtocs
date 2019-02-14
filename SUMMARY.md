@@ -36,4 +36,13 @@
 * [An Introduction to Lists](built-in-data-types/an-introduction-to-lists.md)
 * [Using Lists](built-in-data-types/using-lists.md)
 * [Adding to Lists](built-in-data-types/adding-to-lists.md)
+* [Removing From Lists](built-in-data-types/removing-from-lists.md)
+
+## Abstraction and Classes
+
+* [Abstraction](abstraction-and-classes/abstraction.md)
+* [Basic Classes](abstraction-and-classes/basic-classes.md)
+* [LinkedLists](abstraction-and-classes/linkedlists.md)
+* [Trees](abstraction-and-classes/trees.md)
+* [Recursion over Trees](abstraction-and-classes/recursion-over-trees.md)
 
