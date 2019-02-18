@@ -37,6 +37,8 @@
 * [Using Lists](built-in-data-types/using-lists.md)
 * [Adding to Lists](built-in-data-types/adding-to-lists.md)
 * [Removing From Lists](built-in-data-types/removing-from-lists.md)
+* [Equal Lists](built-in-data-types/equal-lists.md)
+* [Tuples](built-in-data-types/tuples.md)
 
 ## Abstraction and Classes
 
