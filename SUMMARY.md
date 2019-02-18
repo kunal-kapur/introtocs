@@ -39,6 +39,9 @@
 * [Removing From Lists](built-in-data-types/removing-from-lists.md)
 * [Equal Lists](built-in-data-types/equal-lists.md)
 * [Tuples](built-in-data-types/tuples.md)
+* [Dictionaries](built-in-data-types/dictionaries.md)
+* [Iteration Over Lists](built-in-data-types/iteration-over-lists.md)
+* [Comprehensions](built-in-data-types/comprehensions.md)
 
 ## Abstraction and Classes
 
